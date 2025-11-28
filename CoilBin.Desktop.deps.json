@@ -1841,6 +1841,7 @@
       },
       "CoilBin.WebApi/1.0.0": {
         "dependencies": {
+          "CoilBin": "1.0.0",
           "CoilBin.PLC": "1.0.0",
           "SocketIOClient": "3.1.2"
         },
